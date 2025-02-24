@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    font-family: 'Times New Roman';
+    background-color: rgb(147, 255, 219);
+    color: black;
+}
+
+.box {
+    width: 150px;
+    background-color: cornflowerblue;
+    margin: auto;
+
+}
+
+.box2 {
+    width: 150px;
+    background-color: cornflowerblue;
+    margin: auto;
+
+}
+
+.box3 {
+    width: 150px;
+    background-color: cornflowerblue;
+    margin: auto;
+
+}
